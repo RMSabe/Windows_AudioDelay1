@@ -1,4 +1,8 @@
 # Windows_AudioDelay1
+!!!DEPRECATED!!!
+This code is no longer receiving updates.
+Check my other repository Windows_AudioDelay2: https://github.com/RMSabe/Windows_AudioDelay2
+
 An audio delay DSP (Digital Signal Processing) application for Windows.
 
 This project is the same audio effect as the GNU-Linux_AudioDelay project. (https://github.com/RMSabe/GNU-Linux_AudioDelay)
